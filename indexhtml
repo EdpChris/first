@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title> Marvel Superheroes :: Silver Surfer</title>
+<meta charset="utf-8">
+  </head>
+  <body>
+    <header>
+<h1>Marvel Superheros</h1>
+    </header>
+    <nav>
+      <a href="index.html">Silver Surfer</a>
+    </nav>
+    <main>
+ <div>
+<img src="https://i.etsystatic.com/48667065/r/il/e9b6e0/5619565199/il_570xN.5619565199_kldq.jpg" width="450" alt = Silver Surfer
+      </div>
+<h1>Silver Surfer</h1>
+<h2> Biography</h2>
+<p>Born as Norrin Radd on the peaceful planet Zenn-La, he sacrificed his freedom to save his world from the cosmic entity Galactus, who devours planets for sustenance. In return, Galactus transformed Norrin into the Silver Surfer, granting him immense cosmic powers and a surfboard-like craft to traverse the universe. Initially serving as Galactus’ herald, he sought out new worlds for his master to consume.</p>
+<h3>Superpowers</h3>  
+<p>- Silver Surfer wields the Power Cosmic, granting him:</p>
+<p>- Superhuman strength, speed, and endurance<p>
+<p>- Energy manipulation (creation of force fields and energy blasts)<p>
+<p>- Space travel at faster-than-light speeds<p>
+<p>- Matter manipulation and healing abilities<p>
+<p>- Near-immortality and cosmic awareness<p>
+</p>
+<h4>Quote(s)</h4>
+<p>"Better to perish for what I believe in, than endure forever as a traitor to life!"</p>
+<p>"You shall be able to heal others as well as yourself"</p>
